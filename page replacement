@@ -45,5 +45,5 @@ int main() {
 
     printf("Number of page faults: %d\n", page_fault_count);
 
-    return 0;
+   return 0;
 }
