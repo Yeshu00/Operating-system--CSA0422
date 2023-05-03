@@ -57,5 +57,5 @@ int main() {
         printf("No deadlock detected.\n");
     }
 
-    return 0;
+   return 0;
 }
