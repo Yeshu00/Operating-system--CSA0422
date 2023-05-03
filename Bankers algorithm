@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include<string.h>
 
 #define NUM_PROCESSES 4
 #define NUM_RESOURCES 3
