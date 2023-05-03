@@ -32,5 +32,5 @@ int main()
     printf("The total head movement is: %d\n", move);
     printf("The average head movement is: %f\n", (float)move/n);
 
-    return 0;
+   return 0;
 }
