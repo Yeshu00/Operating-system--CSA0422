@@ -49,5 +49,4 @@ int main()
  
     att = tat/n;
     printf("Avg. waiting time= %f\n",awt);
-    printf("Avg. turnaround time= %f",att);
-}
+    printf("Avg. turnaround time= %f",att);}
