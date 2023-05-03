@@ -65,4 +65,5 @@ int main() {
     printf("\nAverage waiting time = %.2fms\n", avg_waiting_time);
     printf("Average turnaround time = %.2fms\n", avg_turnaround_time);
     return 0;
+    
 }
